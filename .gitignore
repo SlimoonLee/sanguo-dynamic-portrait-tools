@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+
+# built artifact (regenerate: python tool/build_editor.py)
+tool/动态立绘微调工具.html
+tool/server_config.json
+tool/_preview.jpg
+
+# local outputs
+pipeline/unity-build.log
+build-result.txt
+Thumbs.db
+desktop.ini
